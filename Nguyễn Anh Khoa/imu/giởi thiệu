@@ -1,6 +1,6 @@
 GIỚI THIỆU :
 imu 9 trục là cảm biến giúp xe cân bằng trong quá trình điều khiển, nó sẽ trả về góc theo trục 
-x,y,z như hình , ta gọi góc tính từ trục x,y,z là roll,pitch,yaw,chính những góc này cho biết robot bị nghiêng
+x,y,z, ta gọi góc tính từ trục x,y,z là roll,pitch,yaw,chính những góc này cho biết robot bị nghiêng
 bao nhiêu 
 LÝ THUYẾT CHI TIẾT : 
 Gyroscope: Đo tốc độ quay theo 3 trục X, Y, Z.
