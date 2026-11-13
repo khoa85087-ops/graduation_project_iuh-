@@ -1,0 +1,10 @@
+GIỚI THIỆU :
+imu 9 trục là cảm biến giúp xe cân bằng trong quá trình điều khiển, nó sẽ trả về góc theo trục 
+x,y,z như hình , ta gọi góc tính từ trục x,y,z là roll,pitch,yaw,chính những góc này cho biết robot bị nghiêng
+bao nhiêu 
+LÝ THUYẾT CHI TIẾT : 
+Gyroscope: Đo tốc độ quay theo 3 trục X, Y, Z.
+Accelerometer: Đo gia tốc, sử dụng trọng lực để xác định Roll và Pitch.
+Magnetometer: Đo từ trường Trái Đất, hỗ trợ xác định và hiệu chỉnh Yaw giải thích code code ở serial đi
+LỰA CHỌN : tôi chọn imu BNO055 
+

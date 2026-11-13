@@ -1,0 +1,32 @@
+áp dụng vô robot thực tế:
+
+giả sữ quy ước  :  mặt robot là trục x , bên trái hoặc phải là trục y ,z hướng lên trời 
+ta cần quan tâm : góc và vận tốc góc : góc cho biết robot ở đâu ,vận tốc góc cho biết nó chuẩn bị 
+ngã hướng nào,với quy ước trên thì trục y sẽ cho biết robot ngã phía trước hay sau ,x cho biết ngã trái
+hay phải ,trục z cho biết robot đang ở góc nào trên mặt phẳng 
+
+Trục 	Tên	Góc	Vận tốc góc
+x		+10°	+30°/s
+y		+15°	+20°/s
+z		90°		+5°/s
+
+Trục y 
+
+Góc +15°: robot đang cúi về phía trước 15°.
+Vận tốc +20°/s: mỗi giây nó cúi thêm 20° nữa.
+Cùng dấu, nên robot đang ngã thêm về trước
+
+Trục x 
+
+Góc +10°: robot nghiêng sang phải 10°.
+Vận tốc +30°/s: đang nghiêng thêm sang phải, khá nhanh.
+Cùng dấu, nên robot đang ngã thêm sang phải.
+
+Trục z 
+
+Góc 90°: robot đang quay mặt sang hướng khác 90° so với lúc bắt đầu.
+Vận tốc +5°/s: đang xoay chậm tại chỗ.
+
+
+
+ 
