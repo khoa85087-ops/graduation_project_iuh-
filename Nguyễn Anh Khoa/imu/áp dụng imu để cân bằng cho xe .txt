@@ -1,6 +1,6 @@
 áp dụng vô robot thực tế:
 
-giả sữ quy ước  :  mặt robot là trục x , bên trái hoặc phải là trục y ,z hướng lên trời 
+giả sữ quy ước  :  trước và sau robot là trục x , bên trái hoặc phải là trục y ,z hướng lên trời
 ta cần quan tâm : góc và vận tốc góc : góc cho biết robot ở đâu ,vận tốc góc cho biết nó chuẩn bị 
 ngã hướng nào,với quy ước trên thì trục y sẽ cho biết robot ngã phía trước hay sau ,x cho biết ngã trái
 hay phải ,trục z cho biết robot đang ở góc nào trên mặt phẳng 
