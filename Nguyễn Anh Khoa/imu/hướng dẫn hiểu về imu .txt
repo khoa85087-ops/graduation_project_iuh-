@@ -4,7 +4,7 @@ x,y,z như hình , ta gọi góc tính từ trục x,y,z là roll,pitch,yaw,chí
 bao nhiêu 
 LÝ THUYẾT CHI TIẾT : 
 Gyroscope: Đo tốc độ quay theo 3 trục X, Y, Z.
-Accelerometer: Đo gia tốc, sử dụng trọng lực để xác định Roll và Pitch.
+Accelerometer: Đo gia tốc, sử dụng trọng lực để xác định Roll và Pitch.d
 Magnetometer: Đo từ trường Trái Đất, hỗ trợ xác định và hiệu chỉnh Yaw giải thích code code ở serial đi
 LỰA CHỌN : tôi chọn imu BNO055 
 
